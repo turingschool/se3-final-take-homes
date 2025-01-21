@@ -16,13 +16,15 @@ Try to limit your total time to approximately 7-8 hours each side of the stack. 
 
 ## Music Festival Organization Service
 
-You will create a full stack application for a Music Festival Organization Service, including a Rails API and a React front end. 
+You will create a full stack application for a Music Festival Organization Service, including a Rails API and a React front end. You do *NOT* need to deploy this app.
 
 The problem: you want to help attendees organize their personal festival schedule. There are various shows happening at the same time, and it can be overwhelming to try to remember what they're interested in seeing at a giving time. With the help of this service, they'll be better organized to make the most of their time at the festival!
 
-Note: this version of the app you're building will an "admin" view - you'll have access to all user data and their schedules. 
+**Note**: this version of the app you're building will be an "admin" view - you'll have access to all user data and their schedules. 
 
 ### Rails API
+
+Feel free to use this [starter repo](https://github.com/turingschool-examples/rails-api-starter) with RSpec and other common gems already configured.
 
 #### Requirements:
 
