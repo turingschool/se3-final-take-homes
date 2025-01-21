@@ -15,9 +15,11 @@ Try to limit your total time to approximately 7-8 hours each side of the stack. 
 
 ## Tea Subscription Service
 
-You will create a full stack application for a Tea Subscription Service, including a Rails API and a React front end.
+You will create a full stack application for a Tea Subscription Service, including a Rails API and a React front end. You do **NOT** need to deploy this app. 
 
 ### Rails API
+
+Feel free to use [this starter repo](https://github.com/turingschool-examples/rails-api-starter) with RSpec and other common gems already configured.
 
 #### Requirements:
 
