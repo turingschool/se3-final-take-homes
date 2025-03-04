@@ -72,7 +72,7 @@ Again, try to limit your total time on the FE to around 8 hours. Prioritize what
 
 ### Music Festival Scheduler React App
 
-You will create a Music Festival Scheduler app that consumes the Rails API you've just built.
+You will create a Music Festival Scheduler app that consumes the Rails API you've just built. Feel free to use [this starter React repo](https://github.com/turingschool-examples/vite-react-starter).
 
 ### Requirements:
 
