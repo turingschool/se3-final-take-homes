@@ -11,7 +11,7 @@
 - Clean, well factored code
 - An understanding of how technical choices you made (i.e. with your database schema, feature prioritization) can impact the end user or business.
 
-Try to limit your total time to approximately 7-8 hours each side of the stack. Historically, students have spent a bit less than 8 hrs on the BE and a bit more on the FE. Thus, we recommend starting with the BE, and then moving onto the FE, but you are welcome to design your own workflow. Prioritize what is important to completing MVP and demonstrating your capabilities as a developer.
+Try to limit your total time to approximately 8-10 hours each side of the stack. Historically, students have spent a bit less than 8 hrs on the BE and a bit more on the FE. Thus, we recommend starting with the BE, and then moving onto the FE, but you are welcome to design your own workflow. Prioritize what is important to completing MVP and demonstrating your capabilities as a developer.
 
 
 ## Music Festival Organization Service
@@ -68,7 +68,7 @@ Keep in mind there are many ways to implement this at a database level. Just be 
 
 ### Front End
 
-Again, try to limit your total time on the FE to around 8 hours. Prioritize what is important to get this working and as close to MVP as possible. Please do not attempt to recreate an entire existing Music Festival's website. We're interested in seeing your ability to write clean code to solve a problem with an understanding of basic UX. We're not looking for fancy UI tricks or hacks.
+Again, try to limit your total time on the FE to around 8-10 hours. Prioritize what is important to get this working and as close to MVP as possible. Please do not attempt to recreate an entire existing Music Festival's website. We're interested in seeing your ability to write clean code to solve a problem with an understanding of basic UX. We're not looking for fancy UI tricks or hacks.
 
 ### Music Festival Scheduler React App
 
