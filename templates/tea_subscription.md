@@ -10,7 +10,7 @@
 - Your ability to prioritize for MVP
 - Clean, well factored code
 
-Try to limit your total time to approximately 7-8 hours each side of the stack. We recommend starting with the BE, and then moving onto the FE, but you are welcome to design your own workflow. Prioritize what is important to completing MVP and demonstrating your capabilities as a developer.
+Try to limit your total time to approximately 8-10 hours each side of the stack. We recommend starting with the BE, and then moving onto the FE, but you are welcome to design your own workflow. Prioritize what is important to completing MVP and demonstrating your capabilities as a developer.
 
 
 ## Tea Subscription Service
@@ -65,7 +65,7 @@ Keep in mind there are many ways to implement this at a database level. Just be 
 
 ### Front End
 
-Again, try to limit your total time on the FE to around 8 hours. Prioritize what is important to get this working and as close to MVP as possible. Please do not attempt to recreate an entire existing Tea Shop's website. We're interested in seeing your ability to write clean code to solve a problem with an understanding of basic UX. We're not looking for fancy UI tricks or hacks.
+Again, try to limit your total time on the FE to around 8-10 hours (including planning). Prioritize what is important to get this working and as close to MVP as possible. Please do not attempt to recreate an entire existing Tea Shop's website. We're interested in seeing your ability to write clean code to solve a problem with an understanding of basic UX. We're not looking for fancy UI tricks or hacks.
 
 ### Tea Subscription React App
 
